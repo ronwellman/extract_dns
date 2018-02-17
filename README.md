@@ -28,11 +28,11 @@ flake8 --ignore=E402 --max-line-length=80 extract_dns.py
 
 ### Potential Future upgrades
 1. argparse or click integration
-  1. custom directory for pcaps
-  1. custom output filenames
-  1. restrict by source address
-  1. ability to filter out common DNS entries or entries with a higher number of occurrences
+    1. custom directory for pcaps
+    1. custom output filenames
+    1. restrict by source address
+    1. ability to filter out common DNS entries or entries with a higher number of occurrences
 1. Cleaner Output
-  1. Current sorting methodology is incorrect/incomplete
-  1. Output could be easier to read
+    1. Current sorting methodology is incorrect/incomplete
+    1. Output could be easier to read
 1. Speed is less than desirable to move through a large PCAP
