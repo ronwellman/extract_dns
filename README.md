@@ -26,7 +26,7 @@ pip3 install scapy-python3
 ### Potential Future upgrades
 1. Ability to restrict searching by source address
 1. Cleaner Output
-  - Current sorting methodology is incorrect/incomplete
-  - Output could be easier to read
+   1. Current sorting methodology is incorrect/incomplete
+   1. Output could be easier to read
 1. Speed is less than desirable to move through a large PCAP
 1. Ability to filter out common DNS entries
